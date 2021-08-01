@@ -1,0 +1,2 @@
+World population : https://www.kaggle.com/rsrishav/world-population
+Covid-19 Data	: https://www.kaggle.com/gpreda/covid-world-vaccination-progress
